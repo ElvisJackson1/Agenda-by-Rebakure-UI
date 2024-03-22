@@ -10,18 +10,18 @@ export default function Welcome() {
         <img src={images.welcome} alt="" className="h-auto w-3/4 " />
 
         <div className="space-y-5 px-5 text-center">
-          <h1 className=" text-xl font-bold">Welcome to Simple ToDo</h1>
+          <h1 className=" text-xl font-bold">Agenda by Rebakure</h1>
           <p className="">
-            A simple ToDo app taken on another level. This is my first React
-            project. I'll be showing all I've learnt so far.
+            I'm here to help you get the job done and still find time to attend
+            your friend's birthday party.
           </p>
           <p className="text-lg text-mainBlue">
-            Organise your tasks in one place.
+            Organise your tasks and events in one place.
           </p>
         </div>
 
         <button className="w-full rounded-lg bg-mainBlue p-3 text-mainwhite">
-          Open Simple ToDo
+          Open Your Agenda
         </button>
       </PageCenter>
     </>

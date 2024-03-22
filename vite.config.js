@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base: '/ElvisJackson1.github.io/',
+  base: '/ElvisJackson1.github.io.git/',
 })
